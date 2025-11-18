@@ -21,13 +21,8 @@ The **deploy** pipelines are a bit more tricky. They have 2 stages, the 1st one 
 **To deploy new changes to prod**, make sure the required changes are in the main branch, then create a new release (and a tag), the tag has to be named as follows: vx.x.x, following the semantic versioning. Then check that the deploy pipeline succeeds in the "Actions" tab.
 
 For questions and support with CI contact [pronoooobster](https://github.com/pronoooobster)
-<!--
 
-**Here are some ideas to get you started:**
+### Infra & Networking
+Right now we have one physical deployment server, which we try to keep up 24/7. We own goteborgdle.se and routing is managed using Cloudflare tunnels. We have 2 tunnels open: goteborgdle.se and api.goteborgdle.se
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+For management and CI we use Tailscale VPN to be able to securely SSH into the deployment server.
