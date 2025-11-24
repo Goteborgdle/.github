@@ -1,8 +1,8 @@
 # Göteborgdle [WIP]
 
-> Göteborgdle is an unnoficial game and is not associated with Västtrafik
+> Goteborgdle is an unnoficial game and is not associated with Västtrafik
 
-Göteborgdle is a Wordle-style game where you have to guess the daily stop of the Gothenburg tram. The project is developed by a group of friends from Gothenburg 💙
+Goteborgdle is a Wordle-style game where you have to guess the daily stop of the Gothenburg tram. The project is developed by a group of friends from Gothenburg 💙
 
 The project is under active development, for any feature suggestions, bug reports, or collaborations, reach out to us at info@goteborgdle.se
 
