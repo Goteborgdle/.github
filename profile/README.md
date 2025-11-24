@@ -6,7 +6,7 @@ Goteborgdle is a Wordle-style game where you have to guess the daily stop of the
 
 The project is under active development, for any feature suggestions, bug reports, or collaborations, reach out to us at info@goteborgdle.se
 
-If you want to help Göteborgdle stay alive, you can get us a fika 🫶
+If you want to help Goteborgdle stay alive, you can get us a fika 🫶
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V81OME3W)
 
