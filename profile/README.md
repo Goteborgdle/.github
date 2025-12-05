@@ -4,7 +4,7 @@
 
 Goteborgdle is a Wordle-style game where you have to guess the daily stop of the Gothenburg tram. The project is developed by a group of friends from Gothenburg 💙
 
-The project is under active development, for any feature suggestions, bug reports, or collaborations, reach out to us at info@goteborgdle.se
+The project is under active development, for any feature suggestions, bug reports, or collaborations, reach out to us at info@goteborgdle.se or open an issue on the [public issue tracker](https://github.com/Goteborgdle/issue-tracker/issues)
 
 If you want to help Goteborgdle stay alive, you can get us a fika 🫶
 
